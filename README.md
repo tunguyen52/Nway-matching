@@ -3,7 +3,7 @@
 ## Introduction
 This Github repository contains the Python implementation of the two X-match algorithms, CanILP and DirILP, as presented in the paper "Globally optimal and scalable N-way matching of astronomy catalogs". In addition, we provided a sample application of DirILP on a dataset provided by the Hyper Suprime-Cam (HSC) Subaru Strategic Survey. The full data can be found at https://lsst.ncsa.illinois.edu/~yusra/nway_test/pdr1_cosmos/HSC-I/ 
 
-In particular, the notebook [DirILP Test - Special Case](DirILP%20Test%20-%20Special%20Case.ipynb) 
+In particular, the notebook [DirILP Test - Special Case](DirILP%20Test%20-%20Special%20Case.ipynb) contains an implementation of DirILP's Special case, where the astronometric uncertainty of each detection is the same, as outlined in Appendix A and its performance on a simulated dataset. The more general version of DirILP, together with CanILP, is implemented in [CanILP + DirILP General case](CanILP%20+%20DirILP%20General%20case.ipynb)
 
 ## Required Packages:
 * Numpy: 1.17.2
