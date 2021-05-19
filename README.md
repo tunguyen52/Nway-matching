@@ -1,4 +1,4 @@
-<p align="center" Nway Cross Matching </p>
+<h1 align="center" Nway Cross Matching </h1>
 ## Introduction
 ## Required Packages:
 * Numpy: 1.17.2
