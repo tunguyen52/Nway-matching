@@ -1,6 +1,7 @@
 # Nway Cross Matching
 
 ## Introduction
+This Github repository contains the Python implementation of the two X-match algorithms, CanILP and DirILP, as presented in the paper "Globally optimal and scalable N-way matching of astronomy catalogs". In addition, we provided a sample application of DirILP on a dataset provided by the Hyper Suprime-Cam (HSC) Subaru Strategic Survey. The full data can be found at https://lsst.ncsa.illinois.edu/~yusra/nway_test/pdr1_cosmos/HSC-I/ 
 
 ## Required Packages:
 * Numpy: 1.17.2
