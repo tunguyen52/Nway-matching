@@ -1,4 +1,4 @@
-<h1 align="center" #Nway Cross Matching </h1>
+#Nway Cross Matching
 
 ## Introduction
 
